@@ -5,8 +5,12 @@ body{
 	text-decoration: dashed;
 	text-align: center;
 	font-weight: bolder;
-	font-size: large;
+	font-size:large;
 	font-family: 'Courier New', Courier, monospace;
+	background-image: url("b2.jpg");
+	;
+	/* font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+
 
 
 
@@ -98,8 +102,10 @@ writing-mode: horizontal-tb;
 			z-index: -2;
 
 		}
+
+
 		 img:hover{
-			border: 10px solid #fdfdfd;
+			border: 6px solid #c0c0c0;
 
 		}
 		
@@ -157,37 +163,6 @@ writing-mode: horizontal-tb;
 			column-count:5;
 			column-gap:5px;
 		 } */
-		 /* .intro { 
-			  text-align: center; 
-			  font-family: Arial;
-			} */
+		
 			
-			/* h2 { 
-			  font-size: 36px;
-			}
-			
-			p { 
-			  font-size: 14pt;
-			} */
-			
-			#image-gallery { 
-			  width: 600px; 
-			  margin: 0 auto;
-			}
-			
-			#current-image { 
-			  width: 100%;
-			} 
-
-			#image-thumbs { 
-				  display: flex; 
-				  justify-content: center; 
-				  margin-top: 20px;
-				}
-				.thumb { 
-					  width: 80px; 
-					  height: 80px; 
-					  object-fit: cover; 
-					  margin-right: 10px; 
-					  cursor: pointer;
-					}
+		

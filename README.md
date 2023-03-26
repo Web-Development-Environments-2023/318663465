@@ -1,3 +1,13 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10502974&assignment_repo_type=AssignmentRepo)
+# Building a personal website for adults in the third age Project
 
-https://web-development-environments-2023.github.io/318663465/#like
+## Personal Information:
+Name:Lior kobi
+
+ID: 318663465
+
+## Information about the site:
+I made this site about my grandmother. On this page you can find a taste of her life, photos from key moments in her life and hear about the music she likes. In addition, you can like the page if you want and you can easily contact her by sending an email for any purpose you want and more.
+The page was created with lots of love and appreciation for my amazing grandmother and I hope you enjoy it as much as I do
+
+### The Website:
+https://web-development-environments-2023.github.io/318663465/
